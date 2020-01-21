@@ -10,6 +10,9 @@ th,
 td {
   border: 5px solid black;
 }
-p.one {
+p {
   border: 5px solid black;
+
+  text-align: center;
+  color: rgb(236, 74, 74);
 }
